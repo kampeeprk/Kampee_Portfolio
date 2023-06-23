@@ -10,13 +10,13 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | 
 |---|---|
-| [Movies_SQL](https://github.com/stlionnn/Movies_SQL)| I answer business questions about movies and directors data
+| [Movies_SQL](https://github.com/stlionnn/Movies_SQL)| Answer business questions about movies and directors data
 ***
 # Python
 
 | Project Link | Project Description | 
 |---|---|
-| [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/7Uyhqpw7GPlvhVo2hkrDZF/iHfLnzPVg6y4i7SdcYEa3N)| I answer business questions about movies and directors data
+| [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/7Uyhqpw7GPlvhVo2hkrDZF/iHfLnzPVg6y4i7SdcYEa3N)| Use Pandas and Numpy to answer business questions about store sales.
 ***
 # Tableau
 
