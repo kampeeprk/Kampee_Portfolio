@@ -23,6 +23,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | 
 |---|---|
 | [Covid-19 and its effects on the Thai stock market](https://github.com/stlionnn/Movies_SQL)| I answer business questions about movies and directors data
-| [Employee salary analysis](https://github.com/stlionnn/Movies_SQL)| I answer business questions about movies and directors data
+| [Employee salary analysis](https://github.com/stlionnn/Employee_analysis)| I answer business questions about movies and directors data
 | [Absenteeism predictions](https://github.com/stlionnn/Movies_SQL)| I answer business questions about movies and directors data
 | [Social Listening Visualization](https://github.com/stlionnn/Movies_SQL)| I answer business questions about movies and directors data
