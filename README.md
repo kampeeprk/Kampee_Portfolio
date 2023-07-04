@@ -17,6 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | 
 |---|---|
 | [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/7Uyhqpw7GPlvhVo2hkrDZF/iHfLnzPVg6y4i7SdcYEa3N)| Used Pandas and Numpy to answer business questions about store sales.
+| [Data Science Job Posting on Glassdoor Analyst](https://datalore.jetbrains.com/notebook/7Uyhqpw7GPlvhVo2hkrDZF/iHfLnzPVg6y4i7SdcYEa3N)| Used Pandas and Numpy to cleansing data and visaulization.
 ***
 # Tableau
 
