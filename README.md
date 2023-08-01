@@ -16,7 +16,8 @@
 
 | Project Link | Project Description | 
 |---|---|
-| [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/7Uyhqpw7GPlvhVo2hkrDZF/iHfLnzPVg6y4i7SdcYEa3N)| Used Pandas and Numpy to answer business questions about store sales.
+| [Analyzing Sales Data](https://datalore.jetbrains.com/notebook/7Uyhqpw7GPlvhVo2hkrDZF/iHfLnzPVg6y4i7SdcYEa3N)| Used Python(Pandas) to analyze store sales data in order to answer business questions.
+| [Amazon_Consumer_Behavior](https://github.com/kampeeprk/Amazon_Consumer_Behavior/blob/main/Amazon%20Consumer%20Behavior.ipynb)| Analyzed customer preferences, buying behaviors, and decision-making processes to helps researchers and analysts evaluate consumer behavior, discover trends, optimize marketing strategies, and improve Amazon's customer experience.
 ***
 # Tableau
 
